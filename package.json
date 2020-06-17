@@ -30,7 +30,7 @@
  
   "scripts": {
     "start": "react-scripts start",
-    "build": "server -s build",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "sass": "npm-sass ./sass/user.sass > ./css/user.css"
