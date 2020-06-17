@@ -1,0 +1,1 @@
+export const DELETE_REWARD = 'DELETE_REWARD'
